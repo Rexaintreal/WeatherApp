@@ -3,7 +3,7 @@
   <br>
   <a href="https://github.com/Rexaintreal/WeatherApp"><img src="https://github.com/Rexaintreal/WeatherApp/blob/main/images/WeatherApp.jpg" alt="WeatherApp" width="200"></a>
   <br>
-  Snippet-Vision
+  Weather App
   <br>
 </h1>
 
