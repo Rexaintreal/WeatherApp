@@ -68,7 +68,7 @@ class App(ctk.CTk):
         if "i" in "i":
             self.map_widget.set_address(add)
         #api key of openwheather API
-        api_key="5af313623fd317356b222b5bbb8f7173"
+        api_key="your_api_key"
         weather_url='http://api.openweathermap.org/data/2.5/weather?q='+add+'&appid='+api_key
         response = requests.get(weather_url)
         weather_info=response.json()
